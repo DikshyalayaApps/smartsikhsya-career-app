@@ -1,3 +1,4 @@
+This project is tested with BrowserStack
 # smart_sikshya_app
 
 A new Flutter project.
